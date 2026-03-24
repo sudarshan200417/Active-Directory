@@ -18,12 +18,12 @@ Created by: -
 Sudarshan Sinha
 
 
-#Objectives: -
+# Objectives: -
 The main objective of this setup is to give a knowledge about how in Active Directory the Domain I created and can be compromised so how to see that event in Splunk server which Is been connected over the network. Attempting a brute-force attack on to are target machine and see the telemetry generated on to our Splunk server and later test the Atomic Test form Atomic Red Team 
 Logical Diagram of setup: -
 Lab Environment Setup: -
 
-#Hardware requirement: -
+# Hardware requirement: -
 
 Component	Minimum Requirement	Recommended Requirement
 CPU	Intel i7 / AMD Ryzen 7 (8-core)	Intel i9 / AMD Ryzen 9 (12+ core)
@@ -33,7 +33,7 @@ Network	Standard Wi-Fi + 1GbE LAN	Multiple network interfaces (USB or PCIe NICs)
 		
 		
 		
-#Software requirement: -
+# Software requirement: -
 Virtualization and Hypervisor
 To run multiple virtual machines (VMs) for attack/defense scenarios:
 •	Hypervisor: VMware, VirtualBox, or KVM
@@ -41,10 +41,10 @@ To run multiple virtual machines (VMs) for attack/defense scenarios:
 •	Defending machine – Windows 10
 •	Active Directory – Windows server 2022
 •	Ubuntu machine – Splunk Server 
-#Virtualization installation: -
+# Virtualization installation: -
 here I am using VirtualBox you can use other virtualization as per your choice.
  
-#Downloading virtual machine: -
+# Downloading virtual machine: -
 1)	Visit the official site of VirtualBox: - 
   https://www.virtualbox.org/
 2)	Select as per your Host OS. as I have Windows OS so I go with Windows hosts
@@ -131,7 +131,7 @@ After selecting the path Press Next
 	
 
 
-#Windows 1o Setup: -
+# Windows 1o Setup: -
 Downloading Windows 10 iso file: -
 1)	Visit the Official Website of Microsoft and download windows 10 iso file: 
      https://www.microsoft.com/en-us/software-download/windows10/
