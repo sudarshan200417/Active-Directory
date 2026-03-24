@@ -58,7 +58,7 @@ Press Enter.
 
 
 
-Installing virtual machine: - 
+# Installing virtual machine: - 
 1)after clicking to the VirtualBox you will be able to see this popup so,
     click next. 
 
@@ -313,7 +313,7 @@ After this it will setup the whole things and may restart few, time don’t be p
 
 
 
-#Kali Linux Setup: -
+# Kali Linux Setup: -
 Download
 1)	Visit the Official website of kali Linux
     https://www.kali.org/
@@ -384,7 +384,7 @@ Its default credential is username – kali, Password-kali
 
 Note: - You can change your username or password 
 
-#Network Configuration: -
+# Network Configuration: -
 There are few types of network settings one should know to setup their home labs according to their needs
 Here's a table format for your VirtualBox Network Settings documentation:
 Network Mode	What It Does	Good For	Limitations
@@ -565,7 +565,7 @@ first, we will set for windows VM
 
 
 
-#Setup Splunk Server in Ubuntu
+# Setup Splunk Server in Ubuntu
 	Visit the Official site: - https://ubuntu.com/
 	Select Server From given other options
 	Click t0 Get Ubuntu Server
@@ -2012,7 +2012,7 @@ Now we have to install Atomic red team to see our local account generates the te
 
 
 
-#Important Links: -
+# Important Links: -
 	  https://www.virtualbox.org/
 	     https://www.microsoft.com/en-us/software-download/windows10/
 	    https://www.kali.org/
